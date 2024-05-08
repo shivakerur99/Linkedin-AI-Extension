@@ -27,4 +27,4 @@ npm run build
 
 ## Explaination Video : 
 
-[![Video Thumbnail](https://img.youtube.com/vi/NAm8uJFaCA0/0.jpg)](https://drive.google.com/file/d/1PhcDj1WpcRYrPXWSlT3IPQSvyIIT0eC0/view?usp=sharing)
+video_link=https://drive.google.com/file/d/1PhcDj1WpcRYrPXWSlT3IPQSvyIIT0eC0/view?usp=sharing
